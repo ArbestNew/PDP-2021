@@ -59,4 +59,4 @@ begin
     
 end; --architecture logic
 
--- Test modify ALU
+-- Test modify
