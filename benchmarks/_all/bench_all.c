@@ -75,3 +75,5 @@ int main(int argc, char *argv[])
     printf("   Total:       %11.6lf\r\n%c\r\n", total , 0xFE);        
     return 0;
 }
+
+// error code
